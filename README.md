@@ -1,6 +1,10 @@
 # Simplifiez-vous-le-CSS-avec-Sass
 siteweb: https://mentor-oc-archist.github.io/OCWD___sass_filRouge/
 
+# ATTENTION:
+CE PROJET NE FONCTIONNE QUE SOUS NODEJS V16.0.0
+(au moment où j'écris ces lignes => sujet à changer => merci react!!)
+
 
 ## Vous devrez (éventuellement) installer SASS globalement sur votre machine avec la commande suivante: 
 <p>npm i -g sass</p>
